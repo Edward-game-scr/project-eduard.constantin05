@@ -4,7 +4,7 @@ A fully custom, 3D-printed, Bluetooth split mechanical keyboard built without a 
 :::info 
 
 **Author**: Constantin Eduard-Andrei \
-**GitHub Project Link**: https://github.com/Edward-game-scr
+**GitHub Project Link**: https://github.com/UPB-PMRust-Students/fils-project-2026-Edward-game-scr
 
 :::
 
@@ -48,7 +48,7 @@ The hardware relies on a 3D-printed chassis to hold the switches, eliminating th
 
 ### Schematics
 
-Place your KiCAD or similar schematics here in SVG format.
+![KiCad](Project_comp_sized.svg)
 
 ### Bill of Materials
 

@@ -48,7 +48,7 @@ The hardware relies on a 3D-printed chassis to hold the switches, eliminating th
 
 ### Schematics
 
-![KiCad](Project_comp.svg)
+![KiCad](project_comp.svg)
 
 ### Bill of Materials
 

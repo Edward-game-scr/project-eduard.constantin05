@@ -16,7 +16,7 @@ This project is a custom-built, wireless split mechanical keyboard based on the 
 
 ## Motivation
 
-I chose this project to gain deep, hands-on experience with both bare-metal electronics and modern embedded software. On the hardware side, handwiring the diode matrix forces a complete understanding of how electrical grids operate. On the software side, writing the firmware in Rust provides the opportunity to learn embassy-rs for asynchronous embedded programming and to understand how to implement a BLE HID (Human Interface Device) stack from the ground up. Also I want to watch movies in the summer on my tv and I need a keyboard to type on the internet so that the search is faster.
+I chose this project to gain deep, hands-on experience with both bare-metal electronics and modern embedded software. On the hardware side, handwiring the diode matrix forces a complete understanding of how electrical grids operate. On the software side, writing the firmware in Rust provides the opportunity to learn embassy-rs for asynchronous embedded programming and to understand how to implement a BLE HID (Human Interface Device) stack from the ground up. Also I want to some watch movies in the summer on my tv and I need a keyboard to type on the internet so that the search is faster.
 
 ## Architecture 
 
